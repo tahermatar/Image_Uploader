@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "3no5SxRlsQfDR/xdhaSgzDcSlkjsmUAXJXzqDnbzaZvVjuKti+EVotv0ON8/IwKjrDwYPGHRMOOJxmgD3Y4IPQ==",
+  "dgSpecHash": "wD8YR2q5LWzCBJ2TVyxsS9Vulhi4EESOGbIsxUXsqEQebL82A7utkTYUzbk7FVoyQg/mK6hI+8LO51RBFmSg4g==",
   "success": true,
-  "projectFilePath": "F:\\SilverKey Internship\\minimal api\\Assignment-2\\imageUploader\\imageUploader.csproj",
+  "projectFilePath": "F:\\SilverKey Internship\\minimal api\\Assignment-2\\imageUploader\\ImageUploader.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\hp\\.nuget\\packages\\microsoft.aspnetcore\\2.2.0\\microsoft.aspnetcore.2.2.0.nupkg.sha512",
     "C:\\Users\\hp\\.nuget\\packages\\microsoft.aspnetcore.authentication.abstractions\\2.2.0\\microsoft.aspnetcore.authentication.abstractions.2.2.0.nupkg.sha512",

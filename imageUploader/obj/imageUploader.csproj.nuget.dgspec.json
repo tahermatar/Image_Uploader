@@ -1,15 +1,15 @@
 {
   "format": 1,
   "restore": {
-    "F:\\SilverKey Internship\\minimal api\\Assignment-2\\imageUploader\\imageUploader.csproj": {}
+    "F:\\SilverKey Internship\\minimal api\\Assignment-2\\imageUploader\\ImageUploader.csproj": {}
   },
   "projects": {
-    "F:\\SilverKey Internship\\minimal api\\Assignment-2\\imageUploader\\imageUploader.csproj": {
+    "F:\\SilverKey Internship\\minimal api\\Assignment-2\\imageUploader\\ImageUploader.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "F:\\SilverKey Internship\\minimal api\\Assignment-2\\imageUploader\\imageUploader.csproj",
-        "projectName": "imageUploader",
-        "projectPath": "F:\\SilverKey Internship\\minimal api\\Assignment-2\\imageUploader\\imageUploader.csproj",
+        "projectUniqueName": "F:\\SilverKey Internship\\minimal api\\Assignment-2\\imageUploader\\ImageUploader.csproj",
+        "projectName": "ImageUploader",
+        "projectPath": "F:\\SilverKey Internship\\minimal api\\Assignment-2\\imageUploader\\ImageUploader.csproj",
         "packagesPath": "C:\\Users\\hp\\.nuget\\packages\\",
         "outputPath": "F:\\SilverKey Internship\\minimal api\\Assignment-2\\imageUploader\\obj\\",
         "projectStyle": "PackageReference",
@@ -22,6 +22,7 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\sdk\\7.0.304\\Sdks\\Microsoft.NET.Sdk.Web\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -72,7 +73,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.202\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.304\\RuntimeIdentifierGraph.json"
         }
       }
     }
